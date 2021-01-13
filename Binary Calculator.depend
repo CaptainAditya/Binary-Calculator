@@ -1,0 +1,57 @@
+# depslib dependency file v1.0
+1607318126 source:c:\users\rajesh verma\desktop\binary calculator\infix.c
+	<stdio.h>
+	"stack.h"
+
+1604660035 c:\users\rajesh verma\desktop\binary calculator\stack.h
+	<stdio.h>
+	"Number.h"
+
+1604341787 c:\users\rajesh verma\desktop\binary calculator\number.h
+	<stdio.h>
+	<stdlib.h>
+
+1607244213 source:c:\users\rajesh verma\desktop\binary calculator\istack.c
+	<stdlib.h>
+	"stack.h"
+
+1607256745 source:c:\users\rajesh verma\desktop\binary calculator\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Number.h"
+
+1604578897 source:c:\users\rajesh verma\desktop\binary calculator\num-conversion-func.c
+	<stdio.h>
+	"num-conversion-func.h"
+
+1604050661 c:\users\rajesh verma\desktop\binary calculator\num-conversion-func.h
+	<stdio.h>
+	"Number.h"
+	<string.h>
+
+1607278177 source:c:\users\rajesh verma\desktop\binary calculator\num-op.c
+	<stdio.h>
+	"num-op.h"
+	<stdlib.h>
+	<limits.h>
+	<math.h>
+
+1604688969 c:\users\rajesh verma\desktop\binary calculator\num-op.h
+	<stdio.h>
+	"Number.h"
+	<stdlib.h>
+
+1607252930 source:c:\users\rajesh verma\desktop\binary calculator\number.c
+	<stdio.h>
+	<stdlib.h>
+	<limits.h>
+	"Number.h"
+	<string.h>
+
+1604650908 source:c:\users\rajesh verma\desktop\binary calculator\numconversion.c
+	<stdio.h>
+	<string.h>
+	"Number.h"
+
+1603737055 source:c:\users\rajesh verma\desktop\binary calculator\stack.c
+
